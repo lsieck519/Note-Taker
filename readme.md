@@ -31,6 +31,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Preview
 
 ## Usage
+Use this app to save and delete notes.
 
 ## Questions
 [Contact me on GitHub](https://github.com/lsieck519)
