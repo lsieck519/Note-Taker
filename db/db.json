@@ -2,30 +2,5 @@
     {
         "title": "Test Title",
         "text": "Test text"
-    },
-    {
-        "title": "1",
-        "text": "note1text",
-        "note_id": "3fad"
-    },
-    {
-        "title": "test2",
-        "text": "text2",
-        "note_id": "32ff"
-    },
-    {
-        "title": "Test3",
-        "text": "text3",
-        "note_id": "e137"
-    },
-    {
-        "title": "test4",
-        "text": "text4",
-        "note_id": "586b"
-    },
-    {
-        "title": "test5",
-        "text": "text5",
-        "note_id": "98f4"
     }
 ]

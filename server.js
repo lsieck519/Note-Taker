@@ -6,7 +6,8 @@ const util = require('util');
 // Helper method for generating unique ids
 const uuid = require('./helpers/uuid');
 
-const PORT = 3001;
+// Making sure it will work with Heroku 
+const PORT = process.env.PORT || 3001;
 
 const app = express();
 
@@ -88,5 +89,5 @@ app.post('/api/notes', (req, res) => {
 
 
 app.listen(PORT, () =>
-  console.log(`App listening at http://localhost:${PORT}`)
+  console.log(`App listening on port ${PORT}`)
 );
