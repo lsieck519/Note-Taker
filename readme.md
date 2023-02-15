@@ -30,6 +30,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Preview
 
+<img width="984" alt="Note Taker Preview" src="https://user-images.githubusercontent.com/99048123/219206713-53a70c00-6d11-44ed-a2a4-536f56f2b4eb.png">
+
+
 ## Usage
 Use this app to save and delete notes.
 
