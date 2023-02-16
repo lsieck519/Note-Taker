@@ -35,14 +35,19 @@ GIVEN a note-taking application
 https://damp-peak-37802.herokuapp.com/ 
 
 ## Preview
+
 <img width="840" alt="NT Preview" src="https://user-images.githubusercontent.com/99048123/219391491-1bd588a5-c28f-4de6-8008-abb5b21bd6fd.png">
 
 
 ## Usage
+
 Use this app to save and delete notes.
 
 ## Credit 
-Starter code provided by MSU Coding Bootcamp. Server.js and uuid.js code closely based on activity 21-Ins_Modular-Routing code. 
+
+Starter code provided by MSU Coding Bootcamp. 
+Server.js and uuid.js code closely based on activity 21-Ins_Modular-Routing code. 
 
 ## Questions
+
 [Contact me on GitHub](https://github.com/lsieck519)
