@@ -1,22 +1,22 @@
 [
     {
-        "title": "Grocery List",
-        "text": "apples\noranges\nbread\neggs\n",
-        "id": "7255"
+        "title": "Call bank on Monday",
+        "text": "call back about pending charge",
+        "id": "b271"
     },
     {
-        "title": "Weekend Plans",
-        "text": "go to tulip festival, eat lunch with parents, take dogs for long walk, study",
-        "id": "21c6"
+        "title": "Reschedule Tuesday Meeting",
+        "text": "reschedule Tuesday meeting with Jeff to 1pm",
+        "id": "1442"
     },
     {
-        "title": "Chores",
-        "text": "water plants, laundry, clean bathroom, wash dishes, change sheets, vacuum, take out trash",
-        "id": "cf9f"
+        "title": "Client Lunch on Wednesday",
+        "text": "Client to pick lunch venue",
+        "id": "c6f5"
     },
     {
-        "title": "Travel Ideas",
-        "text": "No passport:\nHawaii\nYellowstone\nPNW\n\nPassport:\nJapan\nSpain\nFrance",
-        "id": "b4e5"
+        "title": "Check Inventory",
+        "text": "check for shortages",
+        "id": "3384"
     }
 ]
